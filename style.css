@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap');
+
+body {
+    margin: 20px;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.header {
+    width: 100%;
+    height: 500px;
+    background-image: url(./1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    padding-left: 80px;
+    padding-top: 80px;
+    font-family: 'Balsamiq Sans',
+        sans-serif;
+    color: aliceblue;
+    font-size: 60px;
+}
+
+h2 {
+    margin-left: 10px;
+}
+
+hr {
+    margin: 10px 0;
+}
+
+.first {
+    border: 1px solid black;
+    /* margin: 10px; */
+    padding: 30px;
+}
+
+.section_1 {
+    width: 100%;
+    height: 700px;
+    background-image: url(./3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.second {
+    color: aliceblue;
+    width: 800px;
+    margin: 20px;
+    padding-top: 20px;
+}
+
+.item {
+    width: 500px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px 30px;
+}
+
+.item_img {
+    width: 500px;
+}
+
+.poster {
+    width: 188px;
+    height: 268px;
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.quote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* background-color: #a7a99c41; */
+    text-align: center;
+    font-size: 40px;
+    padding: 50px;
+}
+
+span {
+    font-size: 80px;
+}
+
+.pic {
+    width: 100%;
+}
